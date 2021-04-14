@@ -1,0 +1,4 @@
+com/alexdockerdemo/resource/GetResource.java
+ com.alexdockerdemo.resource.GetResource
+com/alexdockerdemo/JaxrsConfig.java
+ com.alexdockerdemo.JaxrsConfig
